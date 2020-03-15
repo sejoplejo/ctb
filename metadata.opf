@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>/r/communism: The Book</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="/r/communism">/r/communism</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">b9551bf4-43e0-4f2d-9adf-bde2a0090c14</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2017-09-01T21:31:46+00:00</dc:date>
+    <dc:publisher>Verlag Neuer Weg</dc:publisher>
+    <dc:description>Die Schrift "Staat und Revolution" verfasste Lenin im August-September 1917 in der Illegalität. Sie untersucht das Wesen des bürgerlichen Staates, die Diktatur des Proletariats und das Absterben des Staates im Kommunismus. Die Haltung zum Staat ist eine Grundsatzfrage zwischen Opportunismus und Marxismus-Leninismus.</dc:description>
+    <dc:subject>Political Science</dc:subject>
+    <dc:subject>Political Ideologies</dc:subject>
+    <dc:subject>Communism; Post-Communism &amp; Socialism</dc:subject>
+    <dc:language>de</dc:language>
+    <dc:identifier opf:scheme="calibre">1f460de2-cc04-4b5c-a75e-93a0b9e285f9</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">N8h3DwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9783880214668</dc:identifier>
+    <meta content="{&quot;/r/communism&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="/r/communism: The Book"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false}, &quot;is_editable&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;name&quot;: &quot;Formats&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;#extra#&quot;: null, &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;#value#&quot;: &quot;EPUB&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="chapter1.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="chapter1-1.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="chapter1-2.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="chapter1-3.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="chapter1-4.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="chapter1-5.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="chapter1-6.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="chapter1-7.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="chapter1-8.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="chapter2.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="chapter2-1.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="chapter2-2.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="chapter2-3.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="chapter2-4.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="chapter2-5.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="chapter2-6.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="chapter2-7.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="chapter2-8.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="chapter2-9.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="chapter3.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="chapter3-1.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="chapter3-2.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="chapter3-3.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="chapter3-4.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="chapter3-5.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="chapter3-6.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="chapter3-7.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="chapter3-8.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="chapter3-9.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="chapter3-10.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="chapter4.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="chapter4-1.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="chapter4-2.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="chapter4-3.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="chapter4-4.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="chapter4-5.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="chapter4-6.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="chapter4-7.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="chapter4-8.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="chapter4-9.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="chapter4-10.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="chapter4-11.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="chapter5.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="chapter5-1.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="chapter5-2.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="chapter5-3.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="chapter5-4.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="chapter5-5.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="chapter5-6.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="chapter6.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="chapter6-1.html" id="id51" media-type="application/xhtml+xml"/>
+    <item href="chapter6-2.html" id="id52" media-type="application/xhtml+xml"/>
+    <item href="chapter6-3.html" id="id53" media-type="application/xhtml+xml"/>
+    <item href="chapter6-4.html" id="id54" media-type="application/xhtml+xml"/>
+    <item href="chapter6-5.html" id="id55" media-type="application/xhtml+xml"/>
+    <item href="chapter6-6.html" id="id56" media-type="application/xhtml+xml"/>
+    <item href="chapter6-7.html" id="id57" media-type="application/xhtml+xml"/>
+    <item href="chapter6-8.html" id="id58" media-type="application/xhtml+xml"/>
+    <item href="chapter6_.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.png" id="cover" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="start"/>
+    <itemref idref="id9"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id5"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
