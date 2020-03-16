@@ -1,24 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>/r/communism: The Book</dc:title>
     <dc:creator opf:role="aut" opf:file-as="/r/communism">/r/communism</dc:creator>
     <dc:identifier opf:scheme="uuid" id="uuid_id">b9551bf4-43e0-4f2d-9adf-bde2a0090c14</dc:identifier>
     <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:date>2017-09-01T21:31:46+00:00</dc:date>
-    <dc:publisher>Verlag Neuer Weg</dc:publisher>
-    <dc:description>Die Schrift "Staat und Revolution" verfasste Lenin im August-September 1917 in der Illegalität. Sie untersucht das Wesen des bürgerlichen Staates, die Diktatur des Proletariats und das Absterben des Staates im Kommunismus. Die Haltung zum Staat ist eine Grundsatzfrage zwischen Opportunismus und Marxismus-Leninismus.</dc:description>
+    <dc:date>2017-09-01</dc:date>
+    <dc:publisher>/r/communism</dc:publisher>
+    <dc:description>This book was created by a group effort of users from the subreddit /r/communism. It contains top posts and analyses from its users.</dc:description>
     <dc:subject>Political Science</dc:subject>
-    <dc:subject>Political Ideologies</dc:subject>
-    <dc:subject>Communism; Post-Communism &amp; Socialism</dc:subject>
-    <dc:language>de</dc:language>
-    <dc:identifier opf:scheme="calibre">1f460de2-cc04-4b5c-a75e-93a0b9e285f9</dc:identifier>
-    <dc:identifier opf:scheme="GOOGLE">N8h3DwAAQBAJ</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9783880214668</dc:identifier>
+    <dc:subject>Communism; Socialism; Marxism-Leninism;</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b258c9c1-48f2-407e-8edc-cd318c438768</dc:identifier>
     <meta content="{&quot;/r/communism&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta name="calibre:title_sort" content="/r/communism: The Book"/>
     <meta name="cover" content="cover"/>
-    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false}, &quot;is_editable&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;name&quot;: &quot;Formats&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;#extra#&quot;: null, &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;#value#&quot;: &quot;EPUB&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_category&quot;: false, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0, &quot;make_category&quot;: false, &quot;composite_template&quot;: &quot;{:'approximate_formats()'}&quot;, &quot;contains_html&quot;: false}, &quot;is_editable&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;name&quot;: &quot;Formats&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;#extra#&quot;: null, &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;#value#&quot;: &quot;EPUB,PDF&quot;}"/>
   </metadata>
   <manifest>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
@@ -65,6 +62,7 @@
     <item href="chapter4-9.html" id="id40" media-type="application/xhtml+xml"/>
     <item href="chapter4-10.html" id="id41" media-type="application/xhtml+xml"/>
     <item href="chapter4-11.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="chapter4-12.html" id="id59" media-type="application/xhtml+xml"/>
     <item href="chapter5.html" id="id43" media-type="application/xhtml+xml"/>
     <item href="chapter5-1.html" id="id44" media-type="application/xhtml+xml"/>
     <item href="chapter5-2.html" id="id45" media-type="application/xhtml+xml"/>
@@ -81,7 +79,7 @@
     <item href="chapter6-6.html" id="id56" media-type="application/xhtml+xml"/>
     <item href="chapter6-7.html" id="id57" media-type="application/xhtml+xml"/>
     <item href="chapter6-8.html" id="id58" media-type="application/xhtml+xml"/>
-    <item href="chapter6_.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="chapter6-9.html" id="id60" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="cover.png" id="cover" media-type="image/png"/>
   </manifest>
@@ -102,7 +100,6 @@
     <itemref idref="id12"/>
     <itemref idref="id13"/>
     <itemref idref="id14"/>
-    <itemref idref="id15"/>
     <itemref idref="id16"/>
     <itemref idref="id17"/>
     <itemref idref="id18"/>
@@ -130,6 +127,7 @@
     <itemref idref="id40"/>
     <itemref idref="id41"/>
     <itemref idref="id42"/>
+    <itemref idref="id59"/>
     <itemref idref="id43"/>
     <itemref idref="id44"/>
     <itemref idref="id45"/>
@@ -146,9 +144,11 @@
     <itemref idref="id56"/>
     <itemref idref="id57"/>
     <itemref idref="id58"/>
+    <itemref idref="id60"/>
     <itemref idref="id5"/>
   </spine>
   <guide>
-    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="start.xhtml" title="Table of Contents" type="toc"/>
+    <reference href="cover.png" title="Cover" type="cover"/>
   </guide>
 </package>
