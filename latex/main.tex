@@ -1,13 +1,31 @@
-\documentclass[11pt,a4paper,twoside,notitlepage]{book}
+\documentclass[11pt,a4paper,oneside,notitlepage]{book}
 \usepackage[utf8]{inputenc}
 \usepackage{pdfpages}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{1}
+\title{r/communism: The Book}
+\author{Collected by u/Mother\_Red\_Vulture}
+\date{}
 \begin{document}
 \frontmatter
 \includepdf{../graphics/coverwithtitle.png}
+\maketitle
+\vfill
+\newpage
+\hspace{0pt}
+\vfill
+\begin{center}
+\textit{r/Communism: How many layers of megathread are you on right now?\\
+Reddit: Idk, maybe like 5 or 6 my dude.\\
+r/Communism: You are like a baby, watch this.}
+\end{center}
+\begin{flushright}
+- u/ladyscarlett22
+\end{flushright}
+\vfill
 \tableofcontents
-\include{preface}
+\input{preface}
 \mainmatter
+\include{chapter-1/main}
 \end{document}
