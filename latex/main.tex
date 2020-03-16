@@ -3,11 +3,13 @@
 \usepackage{pdfpages}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{1}
+
 \begin{document}
 \frontmatter
 \includepdf{../graphics/coverwithtitle.png}
 \tableofcontents
-\include{preface}
+\input{preface}
 \mainmatter
+\include{chapter-1/main}
 \end{document}
