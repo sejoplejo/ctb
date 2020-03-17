@@ -1,0 +1,9 @@
+# action.yml
+name: 'Compile LaTeX + Biber'
+description: 'Compile LaTeX and BibLaTeX via Tectonic + Biber.'
+branding:
+  icon: file-text
+  color: blue
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
